@@ -7,7 +7,7 @@ The following repositories does a data analysis to asses the current park & ride
 
 Following dependencies are required for the project: 
 
-* Python ^3.10 ([PyEnv](https://github.com/pyenv/pyenv) can be used)
+* Python ^3.12 ([PyEnv](https://github.com/pyenv/pyenv) can be used)
 * [Poetry](https://python-poetry.org/) ^1.8
 
 Use Poetry to create a virtual environment and install all dependencies with:
